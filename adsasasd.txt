@@ -1,0 +1,71 @@
+html:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <fieldset class="main">
+        <h1>amogus</h1>
+        <p>amogus</p>
+        <p>amogus</p>
+        <p>amogus</p>
+        <p>amogus</p>
+        <p>amogus</p>
+        <p>amogus</p>
+        <p>amogus</p>
+        <p>amogus</p>
+        <p>amogus</p>
+        <p>amogus</p>
+        <p>amogus</p>
+        <p>amogus</p>
+        <p>amogus</p>
+        <p>amogus</p>
+    </fieldset>
+
+    <fieldset class="links">
+        <img src="">
+    </fieldset>
+</body>
+</html>
+
+
+
+css:
+body{
+    background-image: url('https://images.hdqwalls.com/wallpapers/black-mountain-under-blue-sky-5k-m2.jpg');
+    background-repeat: no-repeat;
+} 
+
+.main{
+    border-radius: 1%;
+    background-color: #19191963;
+    width: 400px;
+    margin: auto;
+    margin-bottom: 10px;
+    min-height: 200%;
+}
+
+.links{
+    border-radius: 1%;
+    background-color: #19191900;
+    width: 400px;
+    margin: auto;
+    align-items: flex-start;
+    min-height: 200%; 
+}
+
+h1{
+    color:white;
+    margin: 10%;
+    text-align: center;
+}
+
+p{
+    color: white;
+    text-align: center;
+}
